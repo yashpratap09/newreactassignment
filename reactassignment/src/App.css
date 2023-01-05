@@ -1,0 +1,37 @@
+body{
+  background-color: darkseagreen;
+}
+
+p{
+  background-color: aqua;
+  width: 45mm;
+  height: 10mm;
+  border-radius: 10mm;
+  margin: auto;
+  padding-left: 7mm;
+  padding-top: 3mm;
+  
+}
+
+.count-component{
+  margin: auto;
+  
+  margin-top: 50mm;
+
+  background-color: rgb(248, 176, 104);
+  width: 50mm;
+  height: 50mm;
+  padding: 10mm;
+  border-radius: 20mm;
+}
+
+.bu1{
+  border-radius: 2mm;
+  padding: auto;
+  margin-right: 5mm;
+}
+.bu2{
+  border-radius: 2mm;
+  padding: auto;
+  margin-top: 10mm;
+}
